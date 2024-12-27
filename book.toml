@@ -1,0 +1,6 @@
+[book]
+authors = ["mitama"]
+language = "en"
+multilingual = false
+src = "src"
+title = "deriving_via User Guide"
